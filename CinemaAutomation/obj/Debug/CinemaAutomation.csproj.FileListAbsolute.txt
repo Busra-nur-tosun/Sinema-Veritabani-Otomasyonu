@@ -1,0 +1,15 @@
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe.config
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.pdb
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.AssemblyReference.cache
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Form1.resources
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.frmAddSalon.resources
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.frmFilmAdd.resources
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.frmSssionAdd.resources
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Properties.Resources.resources
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.GenerateResource.cache
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.exe
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.pdb
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.frmSalesList.resources
+C:\Users\Busra\source\repos\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.frmSales.resources
